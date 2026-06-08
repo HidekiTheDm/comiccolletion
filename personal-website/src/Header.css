@@ -1,0 +1,16 @@
+
+
+.pageName{
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 10px;
+    height: 20px;
+    font-weight: bold;
+}
+.companyLogo{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-top: 10px;
+}
